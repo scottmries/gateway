@@ -1,0 +1,10 @@
+#N canvas 0 22 634 440 10;
+#X obj 41 93 +~ 1;
+#X obj 45 125 wrap~;
+#X obj 50 174 outlet~;
+#X obj 41 20 phasor~ \$1;
+#X obj 40 54 +~ \$2;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 3 0 4 0;
+#X connect 4 0 0 0;
