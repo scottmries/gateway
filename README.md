@@ -2,6 +2,8 @@
 ## GATEWAY - Paintings for black light by Lena Hawkins
 ### May 17 - June 17, 2019, Newtown Radio, Brooklyn, NY
 
+[Documentation](https://vimeo.com/370438075)
+
 The included Puredata patches and QLC+ configuration implement a 5-channel DMX array designed to interact both with the blacklight-reactive material used in the paintings it lit and with the unpredictable month of music broadcast from the space in which it was installed.
 
 This was accomplished as follows:
